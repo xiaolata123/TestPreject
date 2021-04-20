@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">校园社交</string>
+
+    //  底部导航
+    <string name="title_home">广场</string>
+    <string name="title_exchange">易物</string>
+    <string name="title_friends">好友</string>
+    <string name="title_personlinfo">我</string>
+</resources>
